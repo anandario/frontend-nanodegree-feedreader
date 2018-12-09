@@ -1,4 +1,8 @@
-# Project Overview
+# Testing project
+
+:punch: My solution to the [Udacity](https://eu.udacity.com/) Feed Reader Testing project rubric.
+
+## Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
@@ -69,6 +73,17 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
-# Contributing
+## Install
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+:pizza: This is a vanilla JavaScript project, so all dependencies are already included.
+
+- [Jasmine](http://jasmine.github.io/)
+- [jQuery](https://jquery.com/)
+
+## Use
+
+:rocket: You can open it directly with your browser or use your favourite HTTP server. I like to use this [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+## Contributing
+
+:sunglasses: Help is always welcome, please just lint the files using the default linters setup. I use the (Beautify)[https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify] VS Code extension.
